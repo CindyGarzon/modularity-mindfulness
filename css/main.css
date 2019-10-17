@@ -16,8 +16,8 @@ nav a:hover {
 }
 
 .wrapper {
-  margin-left: auto;
-  margin-right: auto;
+  margin-left: 0;
+  margin-right: 0;
   max-width: 82em;
   width: 100%;
 }
