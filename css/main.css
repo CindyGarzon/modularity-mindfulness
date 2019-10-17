@@ -1,0 +1,63 @@
+html {
+  background-color: #fff;
+  font-family: "Noto Sans", sans-serif;
+  font-family: "Noto Sans Japanese", sans-serif;
+}
+
+nav a {
+  text-align: right;
+  color: #005e76;
+  border-bottom: #8bc9d9 2px solid;
+  text-decoration: none;
+}
+
+nav a:hover {
+  color: #000;
+}
+
+.wrapper {
+  margin-left: auto;
+  margin-right: auto;
+  max-width: 82em;
+  width: 100%;
+}
+
+hr {
+  border: #e2e2e2 1px solid;
+}
+
+h4 {
+  color: #000;
+}
+
+.btn-ghost {
+  border: #8bc9d9 2px solid;
+  color: #005e76;
+}
+
+.btn-ghost:hover {
+  background-color: #8bc9d9;
+  border: #005e76 2px solid;
+  color: #0084a6;
+}
+
+@media only screen and (min-width: 38em) {
+
+  .part-3 {
+    display: inline;
+  }
+
+}
+
+@media only screen and (min-width: 60em) {
+
+  .box-wrap {
+    width: 70%;
+    text-align: center;
+  }
+
+  article {
+    text-align: center;
+  }
+
+}
