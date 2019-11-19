@@ -1,54 +1,52 @@
 html {
-font-family: "Noto Sans", sans-serif;
+  font-family: "Noto Sans", sans-serif;
 }
 
 i {
-font-family: "Noto Sans Japanese", sans-serif;
+  font-family: "Noto Sans Japanese", sans-serif;
 }
 
 .btn-ghost {
-color: #005e76;
-border-color: #8bc9d9;
+  color: #005e76;
+  border-color: #8bc9d9;
 }
 
 .btn-ghost:hover {
-color: #000;
-border-color: #005e76;
-background-color: #0084a6;
+  color: #000;
+  border-color: #005e76;
+  background-color: #0084a6;
 }
 
 a:hover {
-color: #000;
+  color: #000;
 }
 
 a {
-text-decoration: none;
-color: #005e76;
-border-bottom: 2px solid #8bc9d9;
-display: block;
+  text-decoration: none;
+  color: #005e76;
+  border-bottom: 2px solid #8bc9d9;
+  display: block;
 }
 
 .border {
-border-top: solid 2px #e2e2e2;
+  border-top: solid 2px #e2e2e2;
 }
 
 .quote {
-border-top: solid 2px #e2e2e2;
-border-bottom: solid 2px #e2e2e2;
+  border-top: solid 2px #e2e2e2;
+  border-bottom: solid 2px #e2e2e2;
 }
 
 footer {
-color: #666;
+  color: #666;
 }
 
 @media only screen and (min-width: 60em) {
 
-.header {
-  text-align: left;
-}
+  .header {
+    text-align: left;
+  }
 
-.align-right {
-  text-align: right;
-}
-
-}
+  .align-right {
+    text-align: right;
+  }
